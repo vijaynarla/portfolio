@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+        <h1>Vijay Narla</h1>
+        <img src="./assets/images/vijay.JPG" height="200" alt="Vijay photo preview" />
+        <h2>Summary</h2>
+        <p>I am a hard working student and willing to become a coder</p>
+        <hr>
+        <h2>Education</h2>
+        <p>B.tech from Sreenidhi Institute of Science and Technology (2015-2019)</p>
+        <hr>
+        <h2>Work Experience</h2>
+        <ul><li><h3>Business Development Associate at Healthywayz</h3></li></ul>
+            <ul><p>June 2017 - May 2021</p></ul>
+            <ul>
+                <li>Worked as a Silver Executive Distributor leading a team of 50 people</li><br>
+                <li>Earned Silver Rank in the hierarchy of roles by achieving an income of 1.5lkahs+</li><br>
+                <li>Created an Organisation of 700+ ids through which products were distributed acreoss South India</li>
+            </ul>
+            <ul><li><h3>Preparing for Competitive Exams since 2021</h3></li></ul>
+            <ul>May 2021 - Present</ul>
+            <hr>
+        <h2>Skills</h2>
+        <ul><li>Good at communication skills</li><br>
+            <li>Organisation Skills </li><br>
+            <li>Leadership Skills</li>
+        </ul>    
+        <hr>
+        <h2>Awards and Certifications</h2>
+        <ul><li>Silver Rank Executive for having created 7.5lakh+ BV in 2 orgs</li></ul>
+         <hr>
+         <h2>Others</h2>
+         <ul><li><a href="./hobbies">My Hobbies</a></li></ul>
+         <ul><li><a href="./public/contact.html">Contact Me</a></li></ul>
+         <footer>
+            <p>© Vijay Narla. All Rights Reserved.</p>
+         </footer>
+    </body>
